@@ -1,5 +1,7 @@
 Dear anyone kanging my bot, At least, Don't fucking spam my private messages least. I'm tired of people copying my works and think it's so funny to do that.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Haruka Aya
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
